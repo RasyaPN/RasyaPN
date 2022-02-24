@@ -1,9 +1,8 @@
 ━━━━━━━━━━━━
 
-Hello, My name is AceBreaker 👋
-I'm a Student that love to Codes! 👀
-
-client.on('message', message => { if (message.content === '-Ace') {
-message.channel.send("❤️ Hey, I love you!"); } });
+Hello, My Name Is RasyaPN
+I Love Coding And Creating Something
+I Work At Kentang Galaxy Minecraft Server
 
 ━━━━━━━━━━━━
+Thanks
